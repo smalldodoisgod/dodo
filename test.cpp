@@ -100,3 +100,4 @@ cout<<setw(3)<<"x"<<setw(3)<<"y"<<setw(3)<<"z"<<setw(10)<<"Value"<<endl;
  return 0;
 }
 
+fuck
